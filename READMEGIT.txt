@@ -4,7 +4,10 @@ place over the summer of 2024 from May 22nd - June 17th with the aid of Dr.
 Robert Marmorstein.
 
 ## The Game
-Well the game is very simple and the goal was to animate sprites and change screens overall which I did accomplish. Once you have ran the Kwaystron.prg file you simply use the arrow keys and try to get to the key. One pesky problem is the Wisp guarding it, if it touches you, it is respawn time. Good luck with this very simple game. 
+Well the game is very simple and the goal was to animate sprites and change screens overall which I did accomplish. 
+Once you have ran the Kwaystron.prg file you simply use the arrow keys and try to get to the key. 
+One pesky problem is the Wisp guarding it, if it touches you, it is respawn time. 
+Good luck with this very simple game. 
 
 ## Overview
 
